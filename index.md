@@ -2,16 +2,16 @@ Johnny Coder
 ============
 
 -------------------     ----------------------------
-email                        yuvarajyalakshmi56@gmail.com
-EMP id                         L19it132
-phone                           7286037219
-LinkedIn                       [linkedIn](https:\
+email                    :    yuvarajyalakshmi56@gmail.com
+EMP id                   :     L19it132
+phone                    :     7286037219
+LinkedIn                 :     [linkedIn](https:\
 -------------------     ----------------------------
 
 Education
 ---------
 
-2010-2014 (expected)
+2018-2022 (expected)
 :   **PhD, Computer Science**; Awesome University (MyTown)
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
