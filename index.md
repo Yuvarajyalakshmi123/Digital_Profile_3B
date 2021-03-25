@@ -18,10 +18,11 @@ Education
      Estimation Problem*
 
 2016-2019
-:   **polytechnic**; University of
-    HomeTown (HomeTown)
+:   **polytechnic**;
+crr polytechnic college
+   
 
-    *Minor: Awesomeology*
+   
 
 
 Technical Skills
