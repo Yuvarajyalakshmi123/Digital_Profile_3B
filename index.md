@@ -2,9 +2,9 @@ Johnny Coder
 ============
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+email                        yuvarajyalakshmi56@gmail.com
+EMP id                         L19it132
+phone                           7286037219
 -------------------     ----------------------------
 
 Education
